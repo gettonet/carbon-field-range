@@ -2,7 +2,7 @@
     "name": "gettonet/carbon-field-range",
     "description": "Carbon Fields extension, that adds a range field type.",
     "keywords": ["wordpress", "carbon-field", "carbon-field-range"],
-    "homepage": "https://github.com/htmlburger/carbon-field-range/",
+    "homepage": "https://github.com/gettonet/carbon-field-range/",
     "type": "library",
     "license": "GPL-2.0+",
     "authors": [
